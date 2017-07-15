@@ -51,6 +51,7 @@
             android:id="@+id/editText4"
             android:layout_marginLeft="27dp"
             android:layout_width="150dp"
-            android:layout_height="wrap_content"/>
+            android:layout_height="wrap_content"
+            android:inputType="textPassword"/>
     </LinearLayout>
 </LinearLayout>
